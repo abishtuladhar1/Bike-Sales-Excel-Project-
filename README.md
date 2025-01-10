@@ -23,6 +23,7 @@ To draw valuable insights from the Sales Data using the dataset from a bike stor
 
 ## Dashboard
 - <a href = "https://github.com/abishtuladhar1/Bike-Sales-Excel-Project-/blob/main/Screenshot%202025-01-09%20224156.png" >View Dashboard</a>
+
 ![Screenshot 2025-01-09 224156](https://github.com/user-attachments/assets/97a95d50-19d4-4f6f-bd13-e64cff2297b6)
 
 ## Project Insights
