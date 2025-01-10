@@ -14,4 +14,4 @@ To draw valuable insights from the Sales Data using the dataset from a bike stor
 -	Which region do these customers reside and what are their behaviors toward buying a bike?
 
 ## Dashboard
-
+- <a href = "View Dashboard
